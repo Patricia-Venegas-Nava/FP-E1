@@ -27,41 +27,27 @@ public class EVA1_22_SWITCH {
          
          switch(dias){
          case 1:
-            System.out.println("ENERO"); 
+            System.out.println("LUNES"); 
              
          case 2:
-             System.out.println("FEBRERO");
+             System.out.println("MARTES");
              break;
          case 3:
-             System.out.println("MARZO");
+             System.out.println("MIERCOLES");
              break;    
         case 4:
-             System.out.println("ABRIL");
+             System.out.println("JUEVES");
              break;
          case 5:
-             System.out.println("MAYO");
+             System.out.println("VIERNES");
              break;    
          case 6:
-             System.out.println("JUNIO");
+             System.out.println("SABADO");
              break;
          case 7:
-             System.out.println("JULIO");
+             System.out.println("DOMINGO");
              break;  
-        case 8:
-             System.out.println("AGOSTO");
-             break;    
-        case 9:
-             System.out.println("SEPTIEMBRE");
-             break;
-         case 10:
-             System.out.println("OCTUBRE");
-             break;    
-         case 11:
-             System.out.println("NOVIEMBRE");
-             break;
-         case 12:
-             System.out.println("DICIEMBRE");
-             break;  
+        
          default:
              System.out.println("NO ES UN NUMERO VALIDO");
              
